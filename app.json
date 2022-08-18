@@ -5,7 +5,7 @@
     "env": {
          "PROTOCOL": {
             "description": "path路径说明:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
-            "value": "相关配置说明：http://ygkkk.blogspot.com/2022/05/herokuxrayvless-wsvmess-wstrojan-ws.html",
+            "value": "/80825593-b4ff-4a63-9298-2493d447377d-vl",
              "required": true
         },
         "SSencryption": {
@@ -15,7 +15,7 @@
         },
         "UUID": {
             "description": "请输入自定义UUID（vless-ws与vmess-ws为用户ID，trojan-ws与shadowsocks-ws为密码，socks5-ws用户名密码为空）",
-            "value": "",
+            "value": "80825593-b4ff-4a63-9298-2493d447377d",
             "required": true
         }  
     },
