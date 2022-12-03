@@ -1,5 +1,5 @@
 #!/bin/sh
-
+1
 # configs
 AUUID=f76e081a-9852-43fd-85ac-2422f8863b97
 CADDYIndexPage=https://github.com/Asxcfrt45/miki/archive/master.zip
