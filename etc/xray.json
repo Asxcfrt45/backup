@@ -1,6 +1,6 @@
 {
     "inbounds": 
-    [1
+    [
         {
             "listen": "/etc/caddy/vmess","protocol": "vmess",
             "settings": {"clients": [{"id": "$AUUID"}]},
