@@ -2,7 +2,7 @@
 
 # configs
 AUUID=f76e081a-9852-43fd-85ac-2422f8863b97
-CADDYIndexPage=https://github.com/Asxcfrt45/miki/archive/master.zip
+
 CONFIGCADDY=https://raw.githubusercontent.com/Asxcfrt45/backup-B/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Asxcfrt45/backup-B/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
